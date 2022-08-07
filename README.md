@@ -12,7 +12,8 @@
 
 **3. PhotoAlbumController -  Main Controller to get All Album details and their respective Photos and also by UserID.**
 
-Note: As size of the response is too large, swagger is not displaying response for **'/api/PhotoAlbum' and '/api/Photos'** but i have verified the same in debug mode and results looks fine.
+## Note: 
+As size of the response is too large, swagger is not displaying response for **'/api/PhotoAlbum' and '/api/Photos'** but i have verified the same in debug mode and results looks fine.
  
 ## TO DO:
 1.Logging - Aditionally we have to implement the Logging either in DB or in Flatfile.
