@@ -1,4 +1,7 @@
-Controller Details
+#TeshTest
+
+##Controller Details
+
 1.AlbumsController - 
 	a.Responsible to retrieve the Album details from 'http://jsonplaceholder.typicode.com/albums'. 
 	b.It also retrieves details based on the UserID(Implemented and kept as commented).
