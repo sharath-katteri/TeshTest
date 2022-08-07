@@ -13,7 +13,7 @@
 3.PhotoAlbumController -  Main Controller to get All Album details and their respective Photos and also by UserID.
 
 
-TO DO:
+## TO DO:
 1.Logging - Aditionally we have to implement the Logging either in DB or in Flatfile.
 2.Unit Test - I have implemented Dependency Injection which supports writing unit test code, as a time constraint i have not implemented.
 	
