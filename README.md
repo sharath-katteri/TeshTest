@@ -2,15 +2,15 @@
 
 ## Controller Details
 
-1.AlbumsController - 
+1. AlbumsController - 
 	a.Responsible to retrieve the Album details from 'http://jsonplaceholder.typicode.com/albums'. 
 	b.It also retrieves details based on the UserID(Implemented and kept as commented).
 
-2.PhotosController - 
+2. PhotosController - 
 	a.Responsible to retrieve the Photo details from 'http://jsonplaceholder.typicode.com/photos'. 
 	b.It also retrieves details based on the AlbumID(Implemented and kept as commented).
 
-3.**PhotoAlbumController -  Main Controller to get All Album details and their respective Photos and also by UserID.**
+**3. PhotoAlbumController -  Main Controller to get All Album details and their respective Photos and also by UserID.**
 
 
 ## TO DO:
